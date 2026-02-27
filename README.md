@@ -241,8 +241,7 @@ Adicionar a URL do Endpoint
 
 ## 📦 Exemplo prático – iFlow para baixar
 
-📦 [Download do iFlow – /Package/Integracao_com_API_Pokemon.zip](Package/PokemonAPI/Package/Integracao_com_API_Pokemon.zip)
-
+📦 [Download do iFlow – Integração com API Pokémon](https://github.com/souzajean/PokemonAPI/raw/main/Package/Integracao_com_API_Pokemon.zip)
 
 > O arquivo pode ser importado diretamente no SAP Integration Suite (CPI).
 
