@@ -157,6 +157,9 @@ RoutePokemon
 
 ### Renomenado a conexão do Router
 ![Fluxo](imagens/Screenshot_27.png)
+```
+Router Default
+```
 
 ### Marcando com Default
 ![Fluxo](imagens/Screenshot_28.png)
