@@ -117,7 +117,7 @@ https://pokeapi.co/api/v2/pokemon-form/${property._Id}
 ```
 
 
-### Tranformar e Converter JSON to XML
+### Transformar e Converter JSON to XML
 ![Fluxo](imagens/Screenshot_16.png)
 
 
