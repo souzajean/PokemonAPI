@@ -90,7 +90,8 @@ PokeAPI
 ### Renomeando o Receiver
 ![Fluxo](imagens/Screenshot_13.png)
 ```
-```APIPpkemon
+APIPpkemon
+```
 
 ### Adicionando o HTTP
 ![Fluxo](imagens/Screenshot_14.png)
