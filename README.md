@@ -90,7 +90,7 @@ PokeAPI
 ### Renomeando o Receiver
 ![Fluxo](imagens/Screenshot_13.png)
 ```
-APIPpkemon
+APIPokemon
 ```
 
 ### Adicionando o HTTP
@@ -124,9 +124,15 @@ Name: ResultsPokemon
 
 ### Renomeando Content Modifier
 ![Fluxo](imagens/Screenshot_20.png)
+```
+getNamePokemon
+```
 
 ### Configurando o Content Modifier
 ![Fluxo](imagens/Screenshot_21.png)
+```
+Exchange Property - Create - _namepokemon - XPath - //ResultsPokemon - java.lang.String
+```
 
 ### Adicionando o Router
 ![Fluxo](imagens/Screenshot_22.png)
