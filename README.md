@@ -81,24 +81,26 @@ Exchange Property - create - _Id - Constant - 6
 ```
 PokeAPI
 ```
-
 ### Renomeando o Receiver
 ![Fluxo](imagens/Screenshot_13.png)
-```
-https://pokeapi.co/api/v2/pokemon-form/${property._Id}
-```
 
 ### Adicionando o HTTP
 ![Fluxo](imagens/Screenshot_14.png)
 
 ### Configurando o HTTP
 ![Fluxo](imagens/Screenshot_15.png)
+```
+https://pokeapi.co/api/v2/pokemon-form/${property._Id}
+```
 
 ### Tranformar e Converter JSON to XML
 ![Fluxo](imagens/Screenshot_16.png)
 
 ### Renomear Converter JSON to XML
 ![Fluxo](imagens/Screenshot_17.png)
+```
+JSON to XML
+```
 
 ### Configurar o Converter JSON to XML
 ![Fluxo](imagens/Screenshot_18.png)
