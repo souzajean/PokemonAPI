@@ -50,50 +50,49 @@ Garantir que apenas o Pokémon previamente definido seja processado pelo fluxo p
 ### Adicionar o HTTPS para o Sender para o Start
 ![Fluxo](imagens/Screenshot_5.png)
 
-### 
+### Adicionando o Endereço para o HTTPS
 ![Fluxo](imagens/Screenshot_6.png)
 
-### 
+### Adicionando o Content Modifier
 ![Fluxo](imagens/Screenshot_7.png)
 
-### 
+### Renomeando o Content Modifier
 ![Fluxo](imagens/Screenshot_8.png)
 
-### 
+### Adicionando no Exchange Property
 ![Fluxo](imagens/Screenshot_9.png)
 
-### 
+### Adicionando o External Call
 ![Fluxo](imagens/Screenshot_10.png)
 
-### 
+### Adicionando o Request Replay
 ![Fluxo](imagens/Screenshot_11.png)
 
-### 
+### Renomeando o Request Replay
 ![Fluxo](imagens/Screenshot_12.png)
 
-
-### 
+### Renomeando o Receiver
 ![Fluxo](imagens/Screenshot_13.png)
 
-### 
+### Adicionando o HTTP
 ![Fluxo](imagens/Screenshot_14.png)
 
-### 
+### Configurando o HTTP
 ![Fluxo](imagens/Screenshot_15.png)
 
-### 
+### Tranformar e Converter JSON to XML
 ![Fluxo](imagens/Screenshot_16.png)
 
-### 
+### Renomear Converter JSON to XML
 ![Fluxo](imagens/Screenshot_17.png)
 
-### 
+### Configurar o Converter JSON to XML
 ![Fluxo](imagens/Screenshot_18.png)
 
-### 
+### Adicionar o Content Modifier
 ![Fluxo](imagens/Screenshot_19.png)
 
-### 
+### Renomeando Content Modifier
 ![Fluxo](imagens/Screenshot_20.png)
 
 
