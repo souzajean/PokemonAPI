@@ -184,7 +184,7 @@ Router
 ```
 
 
-### Renomenado a conexão do Router
+### Renomeando a conexão do Router
 ![Fluxo](imagens/Screenshot_27.png)
 ```
 Router Default
