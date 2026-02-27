@@ -139,9 +139,15 @@ Exchange Property - Create - _namepokemon - XPath - //ResultsPokemon - java.lang
 
 ### Renomeando o Router
 ![Fluxo](imagens/Screenshot_23.png)
+```
+Router
+```
 
 ### Renomeando a conexão do Router
 ![Fluxo](imagens/Screenshot_24.png)
+```
+RoutePokemon
+```
 
 ### Adicionando o End Message
 ![Fluxo](imagens/Screenshot_25.png)
