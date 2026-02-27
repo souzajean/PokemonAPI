@@ -62,6 +62,9 @@ Address = /Pokemon
 
 ### Renomeando o Content Modifier
 ![Fluxo](imagens/Screenshot_8.png)
+```
+set_Id_Pokemon
+```
 
 ### Adicionando no Exchange Property
 ![Fluxo](imagens/Screenshot_9.png)
