@@ -38,16 +38,16 @@ Garantir que apenas o Pokémon previamente definido seja processado pelo fluxo p
 ### Criando nosso Iflow
 ![Fluxo](imagens/Screenshot_1.png)
 
-### Adicionando o nome para iFlow
+### Adicionando o Artefato do Integration Flow
 ![Fluxo](imagens/Screenshot_2.png)
 
-### Editando nosso Iflow
+### Adicionando o nome do Integration Flow
 ![Fluxo](imagens/Screenshot_3.png)
 
-### Adicionando o Content Modifier
+### Editando nosso Iflow
 ![Fluxo](imagens/Screenshot_4.png)
 
-### Renomeando nosso Content Modifier
+### Adicionar o HTTPS para o Sender para o Start
 ![Fluxo](imagens/Screenshot_5.png)
 
 ### 
