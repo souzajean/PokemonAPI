@@ -154,6 +154,9 @@ RoutePokemon
 
 ### Conectando o Router com End
 ![Fluxo](imagens/Screenshot_26.png)
+```
+Router
+```
 
 ### Renomenado a conexão do Router
 ![Fluxo](imagens/Screenshot_27.png)
