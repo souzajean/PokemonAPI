@@ -68,6 +68,9 @@ set_Id_Pokemon
 
 ### Adicionando no Exchange Property
 ![Fluxo](imagens/Screenshot_9.png)
+```
+Exchange Property - create - _results - XPath - /results/name
+```
 
 ### Adicionando o External Call
 ![Fluxo](imagens/Screenshot_10.png)
