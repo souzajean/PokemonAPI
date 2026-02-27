@@ -104,6 +104,11 @@ JSON to XML
 
 ### Configurar o Converter JSON to XML
 ![Fluxo](imagens/Screenshot_18.png)
+```
+Use Namespace Mapping: Desmarcar
+Add XML Root Element: Marcar
+Name: ResultsPokemon
+```
 
 ### Adicionar o Content Modifier
 ![Fluxo](imagens/Screenshot_19.png)
