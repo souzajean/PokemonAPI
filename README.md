@@ -53,9 +53,7 @@ Garantir que apenas o Pokémon previamente definido seja processado pelo fluxo p
 ### Adicionando o Endereço para o HTTPS
 ![Fluxo](imagens/Screenshot_6.png)
 ```
-
 Address = /Pokemon
-
 ```
 ### Adicionando o Content Modifier
 ![Fluxo](imagens/Screenshot_7.png)
@@ -69,7 +67,7 @@ set_Id_Pokemon
 ### Adicionando no Exchange Property
 ![Fluxo](imagens/Screenshot_9.png)
 ```
-Exchange Property - create - _results - XPath - /results/name
+Exchange Property - create - _id - Constant - 6
 ```
 
 ### Adicionando o External Call
@@ -80,6 +78,9 @@ Exchange Property - create - _results - XPath - /results/name
 
 ### Renomeando o Request Replay
 ![Fluxo](imagens/Screenshot_12.png)
+```
+[set_Id_Pokemon](https://pokeapi.co/api/v2/pokemon-form/${property._Id})
+```
 
 ### Renomeando o Receiver
 ![Fluxo](imagens/Screenshot_13.png)
