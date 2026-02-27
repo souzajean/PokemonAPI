@@ -67,7 +67,7 @@ set_Id_Pokemon
 ### Adicionando no Exchange Property
 ![Fluxo](imagens/Screenshot_9.png)
 ```
-Exchange Property - create - _id - Constant - 6
+Exchange Property - create - _Id - Constant - 6
 ```
 
 ### Adicionando o External Call
@@ -79,11 +79,14 @@ Exchange Property - create - _id - Constant - 6
 ### Renomeando o Request Replay
 ![Fluxo](imagens/Screenshot_12.png)
 ```
-[set_Id_Pokemon](https://pokeapi.co/api/v2/pokemon-form/${property._Id})
+PokeAPI
 ```
 
 ### Renomeando o Receiver
 ![Fluxo](imagens/Screenshot_13.png)
+```
+https://pokeapi.co/api/v2/pokemon-form/${property._Id}
+```
 
 ### Adicionando o HTTP
 ![Fluxo](imagens/Screenshot_14.png)
